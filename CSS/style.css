@@ -1,0 +1,20 @@
+.footer{
+    text-align: center;
+    color:lightcoral;
+    
+}
+
+#navbar_name{
+    font-size: 40px;
+    color:lightcoral;
+
+}
+p{
+    font-style: italic;
+    color: white;
+}
+
+.container{
+    background-color:lightcoral ;
+}
+    
