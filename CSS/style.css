@@ -1,6 +1,7 @@
 .footer{
     text-align: center;
     color:lightcoral;
+    background-color:lightgrey;
     
 }
 
@@ -16,5 +17,9 @@ p{
 
 .container{
     background-color:lightcoral ;
+}
+
+#caption{
+    color: white;
 }
     
